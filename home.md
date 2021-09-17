@@ -1,9 +1,8 @@
 ## Welcome to Alchemmartistry
 
-[#Home](https://github.com/alchemmartistry/alchemmartistry.github.io/edit/main/home.md)
-[#About](https://github.com/alchemmartistry/alchemmartistry.github.io/edit/about/home.md)
-[#Contact](https://github.com/alchemmartistry/alchemmartistry.github.io/edit/contact/home.md)
-
+- [Home](https://github.com/alchemmartistry/alchemmartistry.github.io/edit/main/home.md)
+- [#About](https://github.com/alchemmartistry/alchemmartistry.github.io/edit/about/home.md)
+- [#Contact](https://github.com/alchemmartistry/alchemmartistry.github.io/edit/contact/home.md)
 
 ### Markdown
 
